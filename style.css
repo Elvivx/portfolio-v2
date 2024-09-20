@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(./img/IMG_5903.jpeg) no-repeat;
+  background: url(./img/IMG_5903.jpg) no-repeat;
   background-color: #747474;
   background-blend-mode: multiply;
   background-size: cover;
@@ -379,7 +379,6 @@ header .nav .hidden {
 #projects .project .project-contain a {
   text-decoration: none;
   color: #222;
-  border: 1px solid red;
 }
 #projects .project .project-contain a .demo {
   margin: auto;
